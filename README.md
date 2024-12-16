@@ -77,12 +77,12 @@
 
 > <div align="left">
 > <p style="text-align: left;">如果您喜欢这里，感觉对你有帮助，并且有多余的软妹币的话，不妨投喂一颗糖喔~</p>
-> <p style="text-align: left;"><img src="https://gitee.com/zhangtqup/cute-cnblogs/raw/master/img/1273193-20200521150703930-2108950474.gif" alt="" style="display: block;" /></p>
+> <p style="text-align: left;"><img src="https://gitee.com/zhangtqup/beautify_cnblogs/raw/master/src/img/1273193-20200521150703930-2108950474.gif" alt="" style="display: block;" /></p>
 > <p style="text-align: left;">&lt;(▰˘◡˘▰)&gt; 谢谢老板~</p>
-> <div style="display: inline-block; vertical-align: top; padding: 5px;"><img src="https://gitee.com/zhangtqup/cute-cnblogs/raw/master/img/wechat.png" alt="" width="207" height="207" style="width: 150px; height: 150px;" />
+> <div style="display: inline-block; vertical-align: top; padding: 5px;"><img src="https://gitee.com/zhangtqup/beautify_cnblogs/raw/master/src/img/wechat.png" alt="" width="207" height="207" style="width: 150px; height: 150px;" />
 > <p style="text-align: center;">微信扫码</p>
 > </div>
-> <div style="display: inline-block; vertical-align: top; padding: 5px;"><img src="https://gitee.com/zhangtqup/cute-cnblogs/raw/master/img/alipay.jpg" alt="" width="206" height="206" style="width: 150px; height: 150px;" />
+> <div style="display: inline-block; vertical-align: top; padding: 5px;"><img src="https://gitee.com/zhangtqup/beautify_cnblogs/raw/master/src/img/alipay.jpg" alt="" width="206" height="206" style="width: 150px; height: 150px;" />
 > <p style="text-align: center;">支付宝扫码</p>
 > </div>
 > <p style="text-align: left;">赞赏的时候，留下一句你觉得很励志与美的话给我吧~</p>
